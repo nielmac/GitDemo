@@ -58,7 +58,8 @@ public class HomePageTest extends BaseClass {
 	
 	@Test
 	public void getPage3() {
-		
+		System.out.println("changing to new branch named 'Proj_v1'");
+		System.out.println("New java file 'GitClassTest' is added");
 	}
 }
 
