@@ -51,7 +51,9 @@ public class HomePageTest extends BaseClass {
 	
 	@Test
 	public void getPage2() {
-		
+		System.out.println("to add in git, from Person X");
+		System.out.println("to add in git, from Person X");
+		System.out.println("to add in git, from Person X");
 	}
 	
 	@Test
@@ -59,3 +61,4 @@ public class HomePageTest extends BaseClass {
 		
 	}
 }
+
