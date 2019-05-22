@@ -6,7 +6,7 @@ public class GitClassTest {
 	
 	@Test
 	public void newFrameworkTest() {
-		System.out.println("New framework is crated");
+		System.out.println("New framework is created");
 	}
 
 }

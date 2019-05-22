@@ -34,5 +34,10 @@ public class ValidateTitleTest extends BaseClass{
 	public void restTest() {
 		System.out.println("rest");
 	}
+	
+	@Test
+	public void assuredTest() {
+		System.out.println("assured");
+	}
 
 }
