@@ -19,5 +19,20 @@ public class ValidateTitleTest extends BaseClass{
 		Assert.assertEquals(lap.getLinkText().getText(), "Forgotten account?");
 		driver.close();
 	}
+	
+	@Test
+	public void seleniumTest() {
+		System.out.println("selenium");
+	}
+	
+	@Test
+	public void appiumTest() {
+		System.out.println("appium");
+	}
+	
+	@Test
+	public void restTest() {
+		System.out.println("rest");
+	}
 
 }
